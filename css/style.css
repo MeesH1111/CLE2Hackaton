@@ -1,0 +1,87 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+
+.has-text-white {
+    color: hsl(0, 0%, 100%) !important;
+}
+
+.has-text-success {
+    color: hsl(141, 71%, 48%) !important;
+}
+
+.has-text-link-dark {
+    color: hsl(217, 71%, 45%) !important;
+}
+
+.hero-body {
+    /* background-color: lightcoral; */
+    background-image: linear-gradient(rgba(3, 0, 8, 0.7), rgba(1, 0, 9, 0.7)), url(../images/Backgroundimg.webp) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.link.is-info {}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+    transition: all 0.5s ease;
+}
+
+
+.shirt {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/tshirt.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.kleding {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/kleding.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.schoenen {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/schoenen.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.streatwear {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/streatwear.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.designer {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/designer.webp) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.assecoires {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/assecoires.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.verzorging {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/verzorging.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.sport {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/sport.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
